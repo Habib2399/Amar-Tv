@@ -812,8 +812,8 @@ http://xtv.ooo:8080/3329133813/11223344/66241
 http://xtv.ooo:8080/3329133813/11223344/66266
 #EXTINF:-1 group-title="INDIAN | ENGLISH MOVIES" tvg-logo="https://static.epg.best/in/MoviesNow.in.png" ,IN | Movies Now FHD
 http://103.175.242.10:8080/moviesnow/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="INDIAN | ENGLISH MOVIES" tvg-logo="https://static.epg.best/ar/FoxLife.ar.png" tvg-id="foxlifehd.in" ,IN | Fox Life FHD
-http://xtv.ooo:8080/3329133813/11223344/66278
+#EXTINF:-1 group-title="INDIAN | ENGLISH MOVIES" tvg-logo="https://static.epg.best/ar/FoxLife.ar.png" tvg-id="foxlifehd.in" ,IN | Action hollywood
+https://amg01076-lightningintern-actionhollywood-samsungnz-82rry.amagi.tv/playlist/amg01076-lightningintern-actionhollywood-samsungnz/playlist.m3u8
 #EXTINF:-1 group-title="INDIAN | ENGLISH MOVIES" tvg-logo="https://static.epg.best/in/RomedyNow.in.png" tvg-id="romedynowhdin.in" ,IN | Romedy Now
 http://xtv.ooo:8080/3329133813/11223344/66282
 #EXTINF:-1 group-title="INDIAN | ENGLISH MOVIES" tvg-logo="https://static.epg.best/in/ZeeCafe.in.png" tvg-id="zeecafehd.in" ,IN | Zee Cafe HD
