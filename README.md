@@ -1337,8 +1337,8 @@ http://xtv.ooo:8080/3329133813/11223344/346445
 #EXTINF:-1 group-title="Documentary" Discovery  Science
 https://raw.githubusercontent.com/subirkumarpaul/My-iptv/main/Discovery-Science.m3u8
 https://tvsen6.aynaott.com/discovery_hd_bangla/tracks-v1a1/mono.ts.m3u8
-#EXTINF: -1 tvg-logo="https://is.gd/6DokDY" group-title="Documentary", Comidy Family
-https://tvsen5.aynaott.com/discoveryfamily/tracks-v1a1/mono.ts.m3u8
+#EXTINF: -1 tvg-logo="https://is.gd/6DokDY" group-title="Documentary", Wild Animal
+https://d1h8whhtg5u7om.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-3u3ceovu5thv6/WildPlanet_GB.m3u8
 #EXTINF:-1 group-title="Documentary" ,US: Wired2Fish
 http://xtv.ooo:8080/3329133813/11223344/346431
 #EXTINF:-1 group-title="Documentary" tvg-logo="http://surl.li/qgtwns" , Dicovery Sony BBC EARTH 
@@ -1383,6 +1383,9 @@ http://v5on.site/yt-live/live.php?video_id=vBnErz43N1A.m3u8
 https://dplus.gammacdn.workers.dev/videos/112.m3u8
 #EXTINF: -1 tvg-logo="dekbotv.com/uploads/tv_image/sm/food-food.PNG" group-title="Documentary", Food Food
 http://v5on.site/yt-live/live.php?video_id=yVCEwkbJZbA.m3u8
+
+
+
 #EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRj7RYwMEGZIVHtK05yKuPWq66kqqUuHKfEFg&usqp=CAU" group-title="Tplay", Tplay music
 https://cloudfrontnet.vercel.app/tplay/playout/209592/master.m3u8
 #EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRj7RYwMEGZIVHtK05yKuPWq66kqqUuHKfEFg&usqp=CAU" group-title="Tplay", Dubbed Movies
