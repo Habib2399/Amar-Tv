@@ -841,6 +841,8 @@ https://amg01448-samsungin-cnnnow-samsungin-4npqg.amagi.tv/playlist/amg01448-sam
 #EXTINF:-1 group-title="INTERNATIONAL NEWS" tvg-logo="https://is.gd/ih6x8j", NDTV NEWS
 https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678-b/ndtv24x7/master.m3u8
 
+
+
 #EXTINF:-1 group-title="Documentary" ,AE: FashionTV
 https://d1e7rcqq4o2ma.cloudfront.net/bpk-tv/1716/output/index.m3u8
 #EXTINF:-1 group-title="Documentary" ,AF: FashionTV
@@ -878,7 +880,7 @@ https://wildearth-plex.amagi.tv/master.m3u8
 #EXTINF:-1 group-title="Documentary" tvg-id="historytv18hd.in" , History
 http://v5on.site/yt-live/live.php?video_id=q8XK6oJTbtI.m3u8
 #EXTINF:-1 group-title="Documentary" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/1280px-Natgeologo.svg.png" tvg-id="nationalgeographicchannelhd.in" ,IND: Nat Geo HD
-http://103.175.242.10:8080/natgeo/index.m3u8
+https://tvsen6.aynaott.com/natgeo/index.m3u8
 https://tiger-hub.vercel.app/Mehedi-hasan/Multi-language/National-geographic.m3u8
 #EXTINF:-1 group-title="Documentary" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/1200px-National_Geographic_Wild_logo.svg.png" tvg-id="natgeowildhd.in" ,IN | National Geography
 https://tvsen6.aynaott.com/natgeo/tracks-v1a1/mono.ts.m3u8
