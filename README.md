@@ -980,12 +980,10 @@ http://xtv.ooo:8080/3329133813/3329133813/167579
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://static.epg.best/in/StarSportsSelect1.in.png" tvg-id="starsportsselect1hd.in" ,IN | STAR SPORTS SELECT 1
 http://xtv.ooo:8080/3329133813/3329133813/167578272ba4181a246bc40d4bab3c8e088d46, TSN 5 🇨🇦
 http://212.102.60.231/TSN_5/index.m3u8
-
 #EXTINF:-1 group-title="SPORTS",T20 WORLD CUP 01
 http://xtv.ooo:8080/3329133813/3329133813/219643
 #EXTINF:-1 group-title="SPORTS"tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f4/Fox_Cricket_Logo.png" tvg-id="foxsports501hd.au" ,AU: FOX CRICKET 501
 http://xtv.ooo:8080/3329133813/3329133813/167593
-
 #EXTINF: -1 group-title="SPORTS"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGE9PfHTdqPtUX5dvvxKyqrlNHS9k1fHBGov7F19Z2Nhfb-3NzIGpdXn0&s" group-title="SPORTS", ESPN-2
 https://tiger-hub.vercel.app/ESPN/tracks-v1a1/mono.m3u8
 #EXTINF: -1 group-title="SPORTS"tag-logo="https://i.imgur.com/6ezUY5q.png" group-title="SPORTS", Espn 1
@@ -1047,7 +1045,7 @@ http://mixbix.xyz:8080/afVZb46zeZrT/LdZyXr6ZeqaY/299882
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://apksos.com/storage/images/arabic/sports/tv/ess/arabic.sports.tv.ess_1.png" ,SP : DUBAI SPORT 1 HD
 
-
+Cartoon--
 
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/g2hvLR05/Beani-Kids.png" group-title="CARTOON", Beani Kids
 https://streams.sofast.tv/ptnr-yupptv/title-BEANI-KIDS-TV-ENG_yupptv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/ae504cae-b81f-49e6-8b40-71d7c0843589/manifest.m3u8
@@ -1113,6 +1111,9 @@ https://stream.bongonet.net/proxy/radiobongonet?mp=/stream/1/
 https://stream-140.zeno.fm/g372rxef798uv?zs=zMsr18fRTH-5eFy8qKIW-g
 #EXTINF: -1 tvg-logo="https://i.imgur.com/UScHwWO.jpg" group-title="FM REDIO", Radio Bolly FM
 https://stream-160.zeno.fm/zu59ykebs2zuv?zs=TJdihQC0Q8CabTsCGBWA4A
+
+Hindi Movie---
+
 #EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoy4_K_UJHZmqfFxlY38PQvkYTt7shOi0lygrdkiY9_QFleRmm98HQQwpP&s=10" group-title="INDIAN", Bollywood Prime
 https://dai.google.com/linear/hls/event/yvQpXDAeRMGU25KTu--V6Q/master.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/ahKkY3Z.png" group-title="INDIAN", B4U Movie
@@ -1133,7 +1134,6 @@ https://colorsscreen.com/live.php?id=1763&extension=.m3u8|Referer=https://colors
 https://channel31.mdc6.com/1180273453/tracks-v2a1/mono.m3u8
 #EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlXUHp5y7zBMQykwRytNsvYf616L0gfitHCaMgKWyezUjFtI9Q8yljwZdm&s=10" group-title="INDIAN", SHEMAROO BOLLYWOOD
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00864-shemarooenterta-shemabollywood-ono/playlist.m3u8
-
 #EXTINF: -1 tvg-name="DHINCHAAK" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b0/Dhinchaak.jpg" group-title="INDIAN", All Time Movies
 https://cloudfrontnet.vercel.app/tplay/playout/209612/master.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/J1abUHL.jpg" group-title="INDIAN", DHAMAKA Movie
@@ -1228,6 +1228,8 @@ https://janya-rdcmovies.akamaized.net/v1/manifest/611d79b11b77e2f571934fd80ca141
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/9fmVBskr/640px-New-logo-of-DD-National.jpg" group-title="INDIAN", Wow movies
 http://cdn2.pishow.tv/live/140/master.m3u8
 
+Hollowd------
+
 #EXTINF:-1 group-title="INDIAN | ENGLISH MOVIES" tvg-logo="https://static.epg.best/in/StarWorld.in.png" ,IN | Star World HD
 http://xtv.ooo:8080/3329133813/11223344/66211
 #EXTINF:-1 group-title="INDIAN | ENGLISH MOVIES" tvg-logo="https://static.epg.best/in/StarMovies.in.png" tvg-id="starmovieshd.in" ,IN | Star Movies FHD
@@ -1276,6 +1278,8 @@ https://live-hls-web-aje.getaj.net/AJE/04.m3u8
 https://amg01448-samsungin-cnnnow-samsungin-4npqg.amagi.tv/playlist/amg01448-samsungin-cnnnow-samsungin/playlist.m3u8
 #EXTINF:-1 group-title="INTERNATIONAL NEWS" tvg-logo="https://is.gd/ih6x8j", NDTV NEWS
 https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678-b/ndtv24x7/master.m3u8
+
+Documantry---
 
 #EXTINF:-1 group-title="Documentary" ,AE: FashionTV
 https://d1e7rcqq4o2ma.cloudfront.net/bpk-tv/1716/output/index.m3u8
@@ -1335,7 +1339,7 @@ https://dplus.gammacdn.workers.dev/videos/112.m3u8
 #EXTINF: -1 tvg-logo="dekbotv.com/uploads/tv_image/sm/food-food.PNG" group-title="Documentary", Food Food
 http://v5on.site/yt-live/live.php?video_id=yVCEwkbJZbA.m3u8
 
-
+Tplay------------
 
 #EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRj7RYwMEGZIVHtK05yKuPWq66kqqUuHKfEFg&usqp=CAU" group-title="Tplay", Tplay music
 https://cloudfrontnet.vercel.app/tplay/playout/209592/master.m3u8
