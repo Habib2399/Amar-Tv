@@ -991,24 +991,7 @@ http://212.102.60.231/TSN_5/index.m3u8
 http://xtv.ooo:8080/3329133813/3329133813/219643
 #EXTINF:-1 group-title="SPORTS"tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f4/Fox_Cricket_Logo.png" tvg-id="foxsports501hd.au" ,AU: FOX CRICKET 501
 http://xtv.ooo:8080/3329133813/3329133813/167593
-#EXTINF:-1 group-title=SPORTS, Sports 18
-http://103.175.242.10:8080/sports18/index.m3u8
-#EXTINF:-1 group-title="SPORTS" tvg-id="supersportfootball.za" ,Af | DSTV: Super Sports Football
-http://xtv.ooo:8080/3329133813/3329133813/238480
-#EXTINF:-1 group-title="SPORTS" tvg-id="supersportcricket.za" ,Af | DSTV: Super Sports Cricket
-http://xtv.ooo:8080/3329133813/3329133813/238475
-#EXTINF:-1 group-title="SPORTS"tvg-logo="http://vod-logo.net/photos/332926d9c2a786cca9108445aed110d5.png" tvg-id="supersportblitz.za" ,Af | DSTV: Super Sports Blitz
-http://xtv.ooo:8080/3329133813/3329133813/238487
-#EXTINF:-1 group-title="SPORTS" tvg-logo="http://vod-logo.net/photos/d183f08eef1f25d1eb37323912362ba0.jpg" tvg-id="supersportgolf.za" ,Af | DSTV: Super Sports Golf
-http://xtv.ooo:8080/3329133813/3329133813/238488
-#EXTINF:-1 group-title="SPORTS"tvg-id="supersportlaliga.za" ,Af | DSTV: Super Sports La Liga
-http://xtv.ooo:8080/3329133813/3329133813/238479
-#EXTINF:-1 group-title="SPORTS"tvg-id="supersportgrandstand.za" ,Af | DSTV: Super Sports Grand Stand
-http://xtv.ooo:8080/3329133813/3329133813/238476
-#EXTINF:-1 group-title="SPORTS"tvg-id="supersportmotorsport.za" ,Af | DSTV: Super Sports MotorSports
-http://xtv.ooo:8080/3329133813/3329133813/238490
-#EXTINF:-1 group-title="SPORTS"tvg-logo="http://vod-logo.net/photos/ff8d998db66bc29690a5dcc2cb0e1641.png" tvg-id="supersportpsl.za" ,DSTV: Super Sports PSL
-http://xtv.ooo:8080/3329133813/3329133813/238477
+
 #EXTINF: -1 group-title="SPORTS"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGE9PfHTdqPtUX5dvvxKyqrlNHS9k1fHBGov7F19Z2Nhfb-3NzIGpdXn0&s" group-title="SPORTS", ESPN-2
 https://tiger-hub.vercel.app/ESPN/tracks-v1a1/mono.m3u8
 #EXTINF: -1 group-title="SPORTS"tag-logo="https://i.imgur.com/6ezUY5q.png" group-title="SPORTS", Espn 1
@@ -1069,37 +1052,7 @@ http://mixbix.xyz:8080/afVZb46zeZrT/LdZyXr6ZeqaY/299882
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://apksos.com/storage/images/arabic/sports/tv/ess/arabic.sports.tv.ess_1.png" ,SP : Redbull Tv
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://apksos.com/storage/images/arabic/sports/tv/ess/arabic.sports.tv.ess_1.png" ,SP : DUBAI SPORT 1 HD
-http://mixbix.xyz:8080/afVZb46zeZrT/LdZyXr6ZeqaY/299875
-http://xtv.ooo:8080/live/3329133813/3329133813/109988.ts
-#EXTINF:-1 group-title="SPORTS" ,SSC SPORTS 2 SD
-http://mixbix.xyz:8080/afVZb46zeZrT/LdZyXr6ZeqaY/294857
-#EXTINF:-1 group-title="SPORTS" ,SSC SPORTS 1 SD
-http://mixbix.xyz:8080/afVZb46zeZrT/LdZyXr6ZeqaY/294856
-#EXTINF:-1 group-title="SPORTS" ,SSC SPORTS 3 SD
-https://ssc3-ak.akamaized.net/out/v1/42e86125555242aaa2a12056832e7814/index.mpd?|drmScheme=clearkey&drmLicense=7de5dd08ad8041d586c2f16ccc9490a1:5e1503f3398b34f5099933fedab847ef
-#EXTINF:-1 group-title="SPORTS" ,SSC SPORTS 4 SD
-http://mixbix.xyz:8080/afVZb46zeZrT/LdZyXr6ZeqaY/294859
-#EXTINF:-1 group-title="SPORTS" ,SSC SPORTS 5 SD
-http://mixbix.xyz:8080/afVZb46zeZrT/LdZyXr6ZeqaY/294860
-#EXTINF:-1 group-title="SPORTS" ,SSC SPORTS EXTRA 1 SD
-http://mixbix.xyz:8080/afVZb46zeZrT/LdZyXr6ZeqaY/294861
-#EXTINF:-1 group-title="SPORTS" ,SSC SPORTS EXTRA 2 SD
-http://mixbix.xyz:8080/afVZb46zeZrT/LdZyXr6ZeqaY/294862
-#EXTINF:-1 group-title="SPORTS" ,SSC SPORTS EXTRA 3 SD
-http://mixbix.xyz:8080/afVZb46zeZrT/LdZyXr6ZeqaY/294863
-https://ssc-1-enc.edgenextcdn.net/out/v1/c696e4819b55414388a1a487e8a45ca1/index.mpd?|drmScheme=clearkey&drmLicense=d84c325f36814f39bbe59080272b10c3:550727de4c96ef1ecff874905493580f
-#EXTINF:-1 group-title="SPORTS" ,SSC EXTRA 3 HD
-http://mixbix.xyz:8080/afVZb46zeZrT/LdZyXr6ZeqaY/294874
-#EXTINF:-1 group-title="SPORTS" ,SSC EXTRA 2 HD
-https://ssc-2-enc.edgenextcdn.net/out/v1/a16db2ec338a445a82d9c541cc9293f9/index.mpd?|drmScheme=clearkey&drmLicense=8bcfc55359e24bd7ad1c5560a96ddd3c:b5dcf721ab522af92a9d3bf0bd55b596
-#EXTINF:-1 group-title="SPORTS" ,SSC EXTRA 1 HD
-http://mixbix.xyz:8080/afVZb46zeZrT/LdZyXr6ZeqaY/294876
-#EXTINF:-1 group-title="SPORTS" ,SSC 5 HD
-https://ssc-5-enc.edgenextcdn.net/out/v1/99289eac5a7b4319905da595afbd792b/index.mpd?|drmScheme=clearkey&drmLicense=c88b512b17ab4f6cb09eb0ff4a1056ed:adc08ee1c20a734972a55c9aebbd1888
-#EXTINF:-1 group-title="SPORTS" ,SSC 4 HD
-https://ssc-4-enc.edgenextcdn.net/out/v1/5267ea5772874b0db24559d643eaad93/index.mpd?|drmScheme=clearkey&drmLicense=5c672f6b85a94638872d0214f7806ed4:bf8756fbb866ee2d5c701c2289dd8de3
-#EXTINF:-1 group-title="SPORTS" ,SSC 3 HD
-https://ssc-3-enc.edgenextcdn.net/out/v1/42e86125555242aaa2a12056832e7814/index.mpd?|drmScheme=clearkey&drmLicense=7de5dd08ad8041d586c2f16ccc9490a1:5e1503f3398b34f5099933fedab847ef
+
 
 
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/g2hvLR05/Beani-Kids.png" group-title="CARTOON", Beani Kids
