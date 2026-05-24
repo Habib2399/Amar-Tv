@@ -215,7 +215,7 @@ https://live-stream.utkalbongo.com/utkalbongo/stream2/hls/amarbanglatwolivestrea
 #EXTINF: -1 tvg-logo="https://i.imgur.com/ItU5C2m.pg" group-title="KOLKATA", Bangla+
 https://live-stream.utkalbongo.com/hls/livebanglatvstream.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/ItU5C2m.png" group-title="KOLKATA", Colors Bangla HD
-[https://tvsen5.aynaott.com/u3LkNQ7UHhFX/tracks-v1a1/mono.ts.m3u8](https://iptvcable.netlify.app/Altogether-007/Kolkata/ColorsBanglaHD.m3u8)
+https://iptvcable.netlify.app/Altogether-007/Kolkata/ColorsBanglaHD.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/ItU5C2m.png" group-title="KOLKATA", Colors Bangla HD-2
 https://live.dinesh29.com.np/stream/jiotv/colorsbanglasd/master.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/ItU5C2m.png" group-title="KOLKATA", Sanonda tv
