@@ -2,8 +2,6 @@
       
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/3NN3KJ87/IMG-20241017-185544.jpg" group-title="ITS ME", Its Me
 http://164.215.98.132:2082/8649G54859/8649G54859/396
-   
-   
 #EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBgQUXlzQaAalFxaR8ZBBy88eKqGvjZLd85ClTuQXkTVHxZVI-Bxwm1b2g&s=10" group-title="Islamic", Rtv islam
 https://tvsen6.aynaott.com/rtvislam/index.m3u8
 #EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnmLamwxnbUBIcjoZyLbpc_v39PoOf6vtFCROl8ovDDmGNPnX_KOTZJXA&s=10.jpg" group-title="Islamic",Iqra
@@ -257,7 +255,7 @@ http://38.96.178.201/live/RuposhiBangla/index.m3u8
 #EXTINF: -1 tvg-logo="https://tinyurl.com/bdhm55x5" group-title="KOLKATA", Zee Bangla
 http://103.60.204.26:3255/ZeeBangla/index.m3u8
 #EXTINF: -1 tvg-logo="https://t.ly/jh8JB" group-title="KOLKATA", Zee Bangla cinema
-https://tiger-hub.vercel.app/Zee-bangla-Cinema/tracks-v1a1/mono.ts.m3u8
+https://server.zillarbarta.com/ZBCINEMA/tracks-v1a1/mono.ts.m3u8
 #EXTINF: -1 tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/99f28633-718f-472e-95bd-d0b1a9d64725_180x180_zee24.jpg" group-title="KOLKATA", Zee 24 Ghonta
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/24ghanta/default/index.m3u8
 
